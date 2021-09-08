@@ -1,0 +1,22 @@
+LOGalyze 4.1.1
+
+LOGalyze is a log management, SIEM, log analyzer tool.
+Copyright (C) 2005-2012 ZURIEL Ltd.
+
+http://www.logalyze.com
+
+
+Prerequisites - LOGalyze Engine
+
+  Oracle JRE 1.6
+
+
+Prerequisites - LOGalyze Admin
+
+  Oracle JRE 1.6
+  Tomcat 6.0 or newer (bundled in directory admin)
+
+
+Download
+
+  http://www.logalyze.com/downloads
